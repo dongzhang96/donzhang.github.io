@@ -1,0 +1,11 @@
+列向量线性相关的方阵被称为奇异的(singular)
+what's norm
+标准正交：互相正交，范数都为1
+特征值：Av = λv 方阵A的特征向量是指与A相乘后对该向量进行放缩的非零向量v
+
+正定矩阵(positive definite)所有特征值都是正数的矩阵
+半正定(positive semidefinite)所有特征值非负
+半负定(negative semidefinite)所有特征值都非正
+
+奇异值分解（singular value decomposition）
+矩阵的迹：矩阵对角元素的和
